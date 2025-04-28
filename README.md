@@ -2,7 +2,11 @@
 
 [下载地址](https://gh-proxy.com/https://github.com/za1900/cursor-pool/releases/download/0.2/cursor_token.zip)
 
+cursor
 
+一键换号  
+
+白嫖号池
 
 
 
