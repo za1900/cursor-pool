@@ -12,5 +12,3 @@ cursor
 
 ![image](https://gh-proxy.com/https://raw.githubusercontent.com/za1900/cursor-pool/refs/heads/main/20250428111937.png)
 
-![image](https://gh-proxy.com/https://github.com/za1900/cursor-pool/blob/main/123.jpg)
-
